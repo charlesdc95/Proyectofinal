@@ -1,0 +1,35 @@
+body{
+	font-family: Comic Sans MS;
+	background-image: url(file:///C:/Users/carlo/Desktop/Proyecto%20Final%20HTML/iniciodepagina.gif);
+	width: 80%;
+    margin: 20px auto;
+}
+header{
+	background-color: #000000;
+	padding: 20px;
+	text-align: center;
+}
+   header ul {
+ list-style: none;
+}
+
+header ul li a {
+  	color: #fff;
+  	text-decoration: none;
+  	padding: 20px;
+  }
+
+  header ul li a:hover {
+          background-color: #ccc
+  }
+  main {
+	background-color:  #fff;
+	color: #000000;
+	padding: 20px;
+}
+
+footer {
+	background-color: #303030;
+	color: #fff;
+	padding: 10px;
+}
